@@ -1,4 +1,4 @@
-package homeWork_1;
+package HomeWork_1;
 
 public class MiniProjeSesliHarfler {
     public static void main(String[] args) {
