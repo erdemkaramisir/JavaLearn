@@ -1,4 +1,4 @@
-package HomeWork_1;
+package homeWork_1;
 
 //Şart Blokları
 

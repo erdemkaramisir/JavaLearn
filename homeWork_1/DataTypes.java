@@ -1,4 +1,4 @@
-package HomeWork_1;
+package homeWork_1;
 
 // Temel veri tipleri
 public class DataTypes {

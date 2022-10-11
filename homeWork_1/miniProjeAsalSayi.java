@@ -1,4 +1,4 @@
-package HomeWork_1;
+package homeWork_1;
 
 public class miniProjeAsalSayi {
     public static void main(String[] args) {
