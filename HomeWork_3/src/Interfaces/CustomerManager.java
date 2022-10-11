@@ -17,5 +17,6 @@ public class CustomerManager {
 
     public void add(){
         customerDal.add();
+        //customerDal ICustomerdal' dan türediği için ICustomerdal içerisindelki add metodunu çağırıyor.
     }
 }
