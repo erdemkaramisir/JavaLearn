@@ -1,4 +1,4 @@
-package HomeWork_3.StaticDemo;
+package StaticDemo;
 
 public class Main{
     public static void main(String[] args) {
