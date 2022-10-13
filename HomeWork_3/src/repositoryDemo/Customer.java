@@ -1,5 +1,5 @@
 package repositoryDemo;
 
-public class Customer {
+public class Customer implements IEntity {
     
 }
