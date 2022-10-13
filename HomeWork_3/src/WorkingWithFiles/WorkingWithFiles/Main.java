@@ -26,7 +26,7 @@ public class Main {
             }
 
         } catch (IOException e) {
-            // TODO Auto-generated catch block
+         
             e.printStackTrace();
         }
 
@@ -69,7 +69,7 @@ public class Main {
             System.out.println(" Dosyaya yazıldı ");
             writer.close();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
+          
             e.printStackTrace();
         }
 
